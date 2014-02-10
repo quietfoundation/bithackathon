@@ -1,0 +1,10 @@
+{
+  "name": "coinlimit",
+  "description": "Limit orders for Bitcoin buy/sell orders",
+  "author": "Brad Osgood <bosgood@gmail.com>",
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~1.17.1"
+  },
+  "engine": "node 0.10.x"
+}
