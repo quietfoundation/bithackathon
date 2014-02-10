@@ -2,7 +2,9 @@
   "name": "coinlimit",
   "description": "Limit orders for Bitcoin buy/sell orders",
   "author": "Brad Osgood <bosgood@gmail.com>",
-  "dependencies": {},
+  "dependencies": {
+    "coffee-script": "~1.7.1"
+  },
   "devDependencies": {
     "mocha": "~1.17.1"
   },
